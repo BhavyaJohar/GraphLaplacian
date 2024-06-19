@@ -1,4 +1,4 @@
-# GraphLaplacian
+# Social Media Clustering
 ## Description
 This project involves performing spectral clustering on a graph dataset to identify distinct clusters of nodes based on their connectivity patterns. The steps involved include computing the degree matrix, adjacency matrix, graph Laplacian, and performing spectral clustering to assign nodes to different clusters. The dataset used for this assignment contains information about the connections between users on a social media platform. Each row in the dataset represents a connection (edge) between two users, indicated by their unique user IDs.
 
